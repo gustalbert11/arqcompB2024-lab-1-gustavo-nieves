@@ -11,29 +11,29 @@
 - **Años de Estudio**: 2017-2022
 
 ## Experiencia Laboral
-- **Empresa**: Quanta
-- **Puesto**: Desarrolador Junior
-- **Duración**: 06/2023 - 02/2024
+- **Empresa**: Colegio Arzobispo Silva
+- **Puesto**: Vocero de Sección
+- **Duración**: 10/2021 - 05/2022
 - **Responsabilidades**:
-  - Actualizar la documentación
-  - Integración de APIs
-  - Cumplir con los plazos del proyecto
+  - Representar mi sección en la reuniones con la dirección
+  - Exponer las ideas planteadas para los eventos de a promoción a los directivos 
+  - Dirigir los eventos realizados
 
 ## Habilidades
-- Conocimiento de: C, C#, C++ y Python.
-- Manejo de MySQL
-- Manejo de REST
+- Facilidad para transmitir ideas
+- Facilidad al hablar en publico 
+- creativo
 
 ## Proyectos
-- **Proyecto 1**: [Nombre del Proyecto]
-  - **Descripción**: [Breve descripción del proyecto]
-  - **Tecnologías Utilizadas**: [Tecnologías]
+- **Proyecto 1**: Vendimia seccion C
+  - **Descripción**: Una vendimia para recaudar fondos para los gatos del acto, la misa y la fiesta de grado de la seccion.
+  - **Tecnologías Utilizadas**:   Instagram (como medio publicitario)
 
-- **Proyecto 2**: [Nombre del Proyecto]
-  - **Descripción**: [Breve descripción del proyecto]
-  - **Tecnologías Utilizadas**: [Tecnologías]
+- **Proyecto 2**: Creacion del sueter de promocion 
+  - **Descripción**: La sección planteo un diseno de suerter de promocion el cual debia ser aprobado por la dirección. 
+  - **Tecnologías Utilizadas**: pics-art
 
 ## Intereses
-- **Interés 1**
-- **Interés 2**
-- **Interés 3**
+- Mejorar mis habilidades en programación
+- Conocer a fondo el funcionamiento de los computadores
+- Introducirme mas en el mundo de la tecnolgia 
